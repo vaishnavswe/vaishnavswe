@@ -79,16 +79,23 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 <div align="center">
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&show=reviews,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF&show=reviews,prs_merged_percentage" />
 </picture>
 &nbsp;
 <picture>
-  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=vaishnavswe&theme=github-dark-blue&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E" />
 </picture>
+
+</div>
+
+<picture>
+  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&dates=8B949E" />
 
 </div>
 
