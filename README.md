@@ -63,11 +63,10 @@ AI-powered job board with automated resume parsing, structured candidate data ex
 </td>
 <td width="50%" valign="top">
 
-#### &nbsp;
-<!-- Pin a fourth project here when ready -->
-&nbsp;
+#### 🔍 [Credit Card Fraud Detection](https://github.com/vaishnavswe/Creditcard-fraud-detection)
+ML model for detecting fraudulent transactions with interactive analytics dashboard. Implements scikit-learn classification with real-time metrics and anomaly ranking for transaction risk assessment.
 
-*More projects pinned below ↓*
+`Python` `scikit-learn` `Pandas` `React` `Kaggle Dataset`
 
 </td>
 </tr>
