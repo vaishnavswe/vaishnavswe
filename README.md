@@ -75,27 +75,16 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 ---
 
 ### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&theme=tokyonight&show=reviews,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&theme=tokyonight&show=reviews,prs_merged_percentage" />
-</picture>
+[![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&theme=transparent)](https://github.com/vaishnavswe)
 &nbsp;
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&theme=tokyonight" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&theme=transparent)](https://github.com/vaishnavswe)
 
 </div>
 
-<picture>
-  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&theme=dark&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=9aa5ce&currStreakNum=c0caf5&dates=9aa5ce" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://streak-stats.demolab.com?user=vaishnavswe&theme=dark&hide_border=true&background=1a1b26&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=9aa5ce&currStreakNum=c0caf5&dates=9aa5ce" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true&theme=transparent)](https://git.io/streak-stats)
 
 </div>
 
