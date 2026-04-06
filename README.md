@@ -79,19 +79,16 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 <div align="center">
 
 [![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/vaishnavswe)
-[![Vaishnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true#gh-light-mode-only)](https://github.com/vaishnavswe)
 
 &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/vaishnavswe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true#gh-light-mode-only)](https://github.com/vaishnavswe)
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavswe&theme=dark&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavswe&hide_border=true#gh-light-mode-only)](https://git.io/streak-stats)
 
 </div>
 
