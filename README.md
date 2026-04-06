@@ -75,9 +75,8 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 ---
 
 ### GitHub Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishnavswe)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&hide_border=true&theme=tokyonight&show=reviews,prs_merged_percentage" media="(prefers-color-scheme: dark)" />
