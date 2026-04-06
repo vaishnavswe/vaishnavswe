@@ -5,9 +5,9 @@
 **Vaishnav Manoj**
 CS @ UMass Boston · Class of 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-manoj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-2026-omega.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnav.m69@gmail.com)
 
 </div>
 
@@ -37,7 +37,7 @@ Currently finishing my CS degree at UMass Boston and looking for **software engi
 <tr>
 <td width="50%" valign="top">
 
-#### 🔐 [KeyTalk](https://github.com/YOUR_USERNAME/keytalk)
+#### 🔐 [KeyTalk](https://github.com/vaishnavswe/keytalk)
 End-to-end encrypted messaging platform built on a zero-trust client model. Private keys and plaintext never leave the device. Real-time messaging with a strong focus on security architecture and UX clarity.
 
 `Next.js` `React` `XMTP` `RainbowKit` `wagmi`
@@ -45,7 +45,7 @@ End-to-end encrypted messaging platform built on a zero-trust client model. Priv
 </td>
 <td width="50%" valign="top">
 
-#### 📈 [Traffic Congestion Predictor](https://github.com/YOUR_USERNAME/traffic-congestion-predictor)
+#### 📈 [Traffic Congestion Predictor](https://github.com/vaishnavswe/TrafficPredictor)
 Full stack ML forecasting system with a production-style pipeline — from data ingestion to model training to prediction serving and visualization. Built for time-series forecasting at scale.
 
 `PyTorch` `FastAPI` `PostgreSQL` `Next.js` `Docker`
@@ -55,7 +55,7 @@ Full stack ML forecasting system with a production-style pipeline — from data 
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [SmartHire](https://github.com/YOUR_USERNAME/smarthire)
+#### 🧠 [SmartHire](https://github.com/vaishnavswe/SmartHire)
 AI-powered job board with automated resume parsing, structured candidate data extraction, and job-specific evaluation workflows. Backend-heavy system designed around real hiring pipeline logic.
 
 `Django` `PostgreSQL` `Python` `REST API`
