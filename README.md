@@ -77,22 +77,18 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 ### GitHub Stats
 
 <div align="center">
-
-![Stats](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/overview.svg)
-
-&nbsp;
-
-### Most Used Languages 
-![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
-
-</div>
-
-
-<div align="center">
+  
+![Stats](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/overview.svg)     ![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavswe&theme=dark&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats)
 
+
 </div>
+
+
+
+
+
 
 </div>
 
