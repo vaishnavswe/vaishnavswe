@@ -82,7 +82,7 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 
 &nbsp;
 
-[![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
+[![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)]
 
 </div>
 
