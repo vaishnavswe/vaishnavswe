@@ -78,13 +78,15 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)
+![Stats](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/overview.svg)
 
 &nbsp;
 
-[![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)]
+### Most Used Languages 
+![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 </div>
+
 
 <div align="center">
 
