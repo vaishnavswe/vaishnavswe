@@ -82,7 +82,7 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavswe&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/vaishnavswe)
+[![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
 
 </div>
 
