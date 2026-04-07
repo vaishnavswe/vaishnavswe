@@ -78,7 +78,7 @@ ML model for detecting fraudulent transactions with interactive analytics dashbo
 
 <div align="center">
 
-[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+[![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vaishnavswe&show_icons=true&theme=radical)
 
 &nbsp;
 
