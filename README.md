@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=80&lines=Backend+%7C+Full+Stack+%7C+Applied+AI%2FML;Building+systems+that+actually+work.)](https://git.io/typing-svg)
 
 **Vaishnav Manoj**
-CS @ UMass Boston · Class of 2026
+MSCS @ University Of Florida · Class of 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-manoj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-2026-omega.vercel.app/)
@@ -17,7 +17,7 @@ CS @ UMass Boston · Class of 2026
 
 I build backend systems, full stack products, and applied ML tools — focused on turning complex problems into reliable, well-structured software. I care about technical depth, clean architecture, and shipping things that are actually useful.
 
-Currently finishing my CS degree at UMass Boston and looking for **software engineering, backend, full stack, and AI/ML roles** starting mid-2026.
+Currently doing my Masters in CS at University of Florida and looking for **software engineering, backend, full stack, and AI/ML roles/internships** for Summer 2027.
 
 ---
 
