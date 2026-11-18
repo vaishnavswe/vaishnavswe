@@ -1,52 +1,52 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=80&lines=Backend+%7C+Full+Stack+%7C+Applied+AI%2FML;Building+systems+that+actually+work.)](https://git.io/typing-svg)
+# Vaishnav Manoj
 
-**Vaishnav Manoj**
-MSCS @ University Of Florida · Class of 2028
+**M.S. in Computer Science · University of Florida · 2028**  
+Backend Engineering · Applied ML · Distributed Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-manoj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-2026-omega.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnav.m69@gmail.com)
 
 </div>
 
----
+## About
 
-### About
+I build backend services and full-stack applications that put ML models to work. My internship at Arizon Systems combined backend engineering with applied machine learning.
 
-I build backend systems, full stack products, and applied ML tools — focused on turning complex problems into reliable, well-structured software. I care about technical depth, clean architecture, and shipping things that are actually useful.
+I'm looking for **Summer 2027 internships in backend, full-stack, or applied ML engineering**.
 
-Currently doing my Masters in CS at University of Florida and looking for **software engineering, backend, full stack, and AI/ML roles/internships** for Summer 2027.
+## What I'm working on
 
----
+- Contributing to the website revamp as a project developer with [GDG at UF](https://ufgdg.com/).
+- Exploring distributed systems in Erlang and security for vision-language-action models in robotics.
 
-### Tech Stack
+## Tech stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,react,nextjs,flask,django,spring,fastapi,tailwind,docker,postgres,mongodb,pytorch,opencv,git&perline=9&theme=dark)](https://skillicons.dev)
+[![Python, Java, JavaScript, TypeScript, C++, React, Next.js, FastAPI, Django, Flask, Firebase, PostgreSQL, Docker, PyTorch, OpenCV, and Git](https://skillicons.dev/icons?i=py,java,js,ts,cpp,react,nextjs,fastapi,django,flask,firebase,postgres,docker,pytorch,opencv,git&perline=8&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-### Featured Projects
+## Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔐 [KeyTalk](https://github.com/vaishnavswe/keytalk)
-End-to-end encrypted messaging platform built on a zero-trust client model. Private keys and plaintext never leave the device. Real-time messaging with a strong focus on security architecture and UX clarity.
+### [KeyTalk](https://github.com/vaishnavswe/keytalk)
 
-`Next.js` `React` `XMTP` `RainbowKit` `wagmi`
+End-to-end encrypted messaging with wallet-based sign-in and real-time conversations over XMTP.
+
+`Next.js` `XMTP` `RainbowKit` `wagmi`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📈 [Traffic Congestion Predictor](https://github.com/vaishnavswe/TrafficPredictor)
-Full stack ML forecasting system with a production-style pipeline — from data ingestion to model training to prediction serving and visualization. Built for time-series forecasting at scale.
+### [Traffic Congestion Predictor](https://github.com/vaishnavswe/TrafficPredictor)
+
+An LSTM forecasts traffic congestion. A FastAPI service serves predictions to an interactive Next.js dashboard.
 
 `PyTorch` `FastAPI` `PostgreSQL` `Next.js` `Docker`
 
@@ -55,47 +55,34 @@ Full stack ML forecasting system with a production-style pipeline — from data 
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠 [SmartHire](https://github.com/vaishnavswe/SmartHire)
-AI-powered job board with automated resume parsing, structured candidate data extraction, and job-specific evaluation workflows. Backend-heavy system designed around real hiring pipeline logic.
+### [SmartHire](https://github.com/vaishnavswe/SmartHire)
 
-`Django` `PostgreSQL` `Python` `REST API`
+A job board that parses resumes into structured candidate profiles for evaluation against specific job postings.
+
+`Python` `Django` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔍 [Credit Card Fraud Detection](https://github.com/vaishnavswe/Creditcard-fraud-detection)
-ML model for detecting fraudulent transactions with interactive analytics dashboard. Implements scikit-learn classification with real-time metrics and anomaly ranking for transaction risk assessment.
+### [Credit Card Fraud Detection](https://github.com/vaishnavswe/Creditcard-fraud-detection)
 
-`Python` `scikit-learn` `Pandas` `React` `Kaggle Dataset`
+A logistic regression model trained on 280,000+ transactions. A React dashboard shows model performance and surfaces the 200 highest-risk transactions.
+
+`Python` `scikit-learn` `pandas` `React`
 
 </td>
 </tr>
 </table>
 
----
-
-### GitHub Stats
+## GitHub activity
 
 <div align="center">
-  
-![Stats](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/overview.svg)     ![Top Langs](https://raw.githubusercontent.com/vaishnavswe/github-stats-transparent/refs/heads/output/generated/languages.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavswe&theme=dark&hide_border=true#gh-dark-mode-only)](https://git.io/streak-stats)
-
-
+  <img src="./profile/stats.svg" alt="GitHub statistics for Vaishnav Manoj" width="48%" align="top">
+  <img src="./profile/top-langs.svg" alt="Most used languages across public repositories" width="48%" align="top">
 </div>
 
-
-
-
-
-
-</div>
-
----
-
-<div align="center">
-
-*Open to opportunities — let's build something that matters.*
-
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vaishnavswe&amp;theme=dark&amp;hide_border=true" alt="GitHub contribution streak">
+  </a>
+</p>
