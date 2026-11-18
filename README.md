@@ -4,6 +4,7 @@
 
 **Vaishnav Manoj**
 MSCS @ University Of Florida · Class of 2028
+Backend Engineering · Applied ML · Distributed Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-manoj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-2026-omega.vercel.app/)
