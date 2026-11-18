@@ -1,0 +1,53 @@
+name: Refresh profile cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+  schedule:
+    - cron: "37 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&disable_animations=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3'
+          path: profile/stats.svg
+          core_version: "2.2.0"
+          fail_on_error: true
+
+      - name: Generate most used languages
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&card_width=340&disable_animations=true&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=E6EDF3'
+          path: profile/top-langs.svg
+          core_version: "2.2.0"
+          fail_on_error: true
+
+      - name: Publish changed cards
+        run: |
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh GitHub profile cards"
+          git pull --rebase origin main
+          git push origin HEAD:main
