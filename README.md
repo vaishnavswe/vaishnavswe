@@ -1,26 +1,25 @@
 <div align="center">
 
-# Vaishnav Manoj
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=80&lines=Backend+%7C+Full+Stack+%7C+Applied+AI%2FML;Building+systems+that+actually+work.)](https://git.io/typing-svg)
 
-**M.S. in Computer Science · University of Florida · 2028**  
-Backend Engineering · Applied ML · Distributed Systems
+**Vaishnav Manoj**
+MSCS @ University Of Florida · Class of 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-manoj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-website-2026-omega.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vnav.m69@gmail.com)
 
 </div>
 
-## About
+---
 
-I build backend services and full-stack applications that put ML models to work. My internship at Arizon Systems combined backend engineering with applied machine learning.
+### About
 
-I'm looking for **Summer 2027 internships in backend, full-stack, or applied ML engineering**.
+I build backend systems, full stack products, and applied ML tools — focused on turning complex problems into reliable, well-structured software. I care about technical depth, clean architecture, and shipping things that are actually useful.
 
-## What I'm working on
+Currently doing my Masters in CS at University of Florida and looking for **software engineering, backend, full stack, and AI/ML roles/internships** for Summer 2027.
 
-- Contributing to the website revamp as a project developer with [GDG at UF](https://ufgdg.com/).
-- Exploring distributed systems in Erlang and security for vision-language-action models in robotics.
-
+---
 ## Tech stack
 
 <div align="center">
